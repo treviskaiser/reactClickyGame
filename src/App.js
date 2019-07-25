@@ -3,7 +3,6 @@ import Card from "./components/Card";
 import Wrapper from "./components/Wrapper";
 import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
-import Container from "./components/Container";
 import cards from "./cards.json";
 import "./index.css";
 
